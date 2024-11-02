@@ -1,0 +1,7 @@
+{
+    "karta": ".pay__payform-v2 > :nth-child(2) > .pay_base-input-v2",
+    "srok": ":nth-child(1) > .pay_base-input-v2",
+    "kod": ".pay-inputs-box > :nth-child(2) > .pay_base-input-v2",
+    "name": ".pay__input-box-last-of > .pay_base-input-v2",
+    "oplata": ".pay-btn"
+}
